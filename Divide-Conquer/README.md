@@ -1,1 +1,1 @@
-# Graph Search, Shortest Paths, and Data Structures
+# Divide and Conquer, Sorting and Searching, and Randomized Algorithms
